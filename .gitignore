@@ -1,0 +1,9 @@
+/pkg
+/.idea
+.vscode
+error.log
+.DS_Store
+vendor/
+bin/
+main
+imdb-challenge
