@@ -1,5 +1,5 @@
 # About Project
-
+Please see challenge description [challenge_description.MD](./challenge_description.MD).
 ## How to build
 
 ## How to run
